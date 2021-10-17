@@ -6,7 +6,7 @@ package royalhotel;
 
 /**
  *
- * @author Kunal
+ * @author Krupesh
  */
 import java.awt.Toolkit;
 import java.sql.*;
